@@ -1,0 +1,11 @@
+Package: GeoData
+Type: Package
+Title: Geospatial Distance Utilities
+Version: 0.1.0
+Author: Olga SUbbotina
+Maintainer: Olga Subbotina <Olga.Subbotina@campus.lmu.de>
+Description: Provides utility functions for calculating distances 
+   between geographical points and finding the midpoint.
+License: MIT
+Encoding: UTF-8
+LazyData: true
